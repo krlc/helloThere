@@ -7,4 +7,5 @@ require (
 	github.com/mmcloughlin/geohash v0.9.0
 	github.com/oschwald/maxminddb-golang v1.6.0
 	github.com/seiflotfy/cuckoofilter v0.0.0-20200323075608-c8f23b6b6cef
+	gopkg.in/yaml.v2 v2.2.2
 )
